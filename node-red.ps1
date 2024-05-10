@@ -9,7 +9,7 @@ npm install -g npm@10.7.0
 
 
 #Criar variável no path 'C:\npmglobal'
-$env:Path += ";C:\npmglobal"
+$env:Path += ;C:\npmglobal
 
 
 Set-ExecutionPolicy Unrestricted -Scope LocalMachine -Force
